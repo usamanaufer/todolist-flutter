@@ -1,0 +1,4 @@
+#Wed Jan 11 11:43:21 GST 2023
+base.0=/Users/usamanaufer/Desktop/to_do_list/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
